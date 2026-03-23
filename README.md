@@ -9,6 +9,12 @@ I implemented both algorithms in Python, evaluated them on the Moving AI benchma
 
 The repo is simple on purpose: no over-design, easy to read, easy to run, and easy to reproduce.
 
+## Paper
+
+The accompanying paper for this project is included here:
+
+- [A Comparative Analysis of A* and Dijkstra's Algorithms for Grid-Based Pathfinding](paper/A_Comparative_Analysis_of_Astar_and_Dijkstra_Algorithms_for_Grid_Based_Pathfinding.pdf)
+
 ## What This Project Shows
 
 - clean implementation of **Dijkstra**
@@ -40,6 +46,8 @@ The repo is simple on purpose: no over-design, easy to read, easy to run, and ea
 ├── figures
 │   ├── nodes_expanded_comparison.png
 │   └── running_time_comparison.png
+├── paper
+│   └── A_Comparative_Analysis_of_Astar_and_Dijkstra_Algorithms_for_Grid_Based_Pathfinding.pdf
 └── archive
     └── main_history_20240131194650.py
 ```
