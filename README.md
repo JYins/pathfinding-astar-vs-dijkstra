@@ -11,9 +11,10 @@ The repo is simple on purpose: no over-design, easy to read, easy to run, and ea
 
 ## Paper
 
-The accompanying paper for this project is included here:
+The accompanying paper for this project is included here in a public-share version:
 
-- [A Comparative Analysis of A* and Dijkstra's Algorithms for Grid-Based Pathfinding](paper/A_Comparative_Analysis_of_Astar_and_Dijkstra_Algorithms_for_Grid_Based_Pathfinding.pdf)
+- [Public PDF](paper/A_Comparative_Analysis_of_Astar_and_Dijkstra_Algorithms_for_Grid_Based_Pathfinding_Public.pdf)
+- [Public DOCX](paper/A_Comparative_Analysis_of_Astar_and_Dijkstra_Algorithms_for_Grid_Based_Pathfinding_Public.docx)
 
 ## What This Project Shows
 
@@ -47,7 +48,8 @@ The accompanying paper for this project is included here:
 │   ├── nodes_expanded_comparison.png
 │   └── running_time_comparison.png
 ├── paper
-│   └── A_Comparative_Analysis_of_Astar_and_Dijkstra_Algorithms_for_Grid_Based_Pathfinding.pdf
+│   ├── A_Comparative_Analysis_of_Astar_and_Dijkstra_Algorithms_for_Grid_Based_Pathfinding_Public.docx
+│   └── A_Comparative_Analysis_of_Astar_and_Dijkstra_Algorithms_for_Grid_Based_Pathfinding_Public.pdf
 └── archive
     └── main_history_20240131194650.py
 ```
